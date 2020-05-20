@@ -1,4 +1,5 @@
-print("belajar conflict")
+print("belajar asd")
+print("belajar qwe")
 
 #header {
 #    width: 100%;
